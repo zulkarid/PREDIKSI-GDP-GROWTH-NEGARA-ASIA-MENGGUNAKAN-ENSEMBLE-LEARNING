@@ -19,11 +19,11 @@ Evaluasi difokuskan pada perbandingan performa model menggunakan fitur dasar (*b
 ## Anggota Kelompok
 
 Silakan isi daftar nama dan NIM anggota kelompok di bawah ini:
-- [BALGIS KHAIRUNNISA SYAKIRA] - [NIM Anggota 1]
-- [KANAYA PUTRI PRABASA] - [NIM Anggota 2]
+- [BALGIS KHAIRUNNISA SYAKIRA] - [103102400025]
+- [KANAYA PUTRI PRABASA] - [103102400035]
 - [Rayhan Akbar Zulkarnaen] - [103102400069]
-- [ZAHIRA KAYLA WARDHANI] - [NIM Anggota 4]
-- [Shindy] - [NIM anggota 5]
+- [ZAHIRA KAYLA WARDHANI] - [103102400022]
+- [Shindy Yusnidha] - [103102400042]
 
 ---
 
@@ -90,5 +90,5 @@ Aplikasi ini dibangun menggunakan beberapa pustaka Python utama sebagai berikut:
 
 ```text
 ├── ML_FINAL_ASS(1).ipynb
-├── WEO_Data.csv
+├── dataset_2026-06-10T06_24_43.190817281Z_DEFAULT_INTEGRATION_IMF RES_WEO_9.0.0.csv
 └── README.md
